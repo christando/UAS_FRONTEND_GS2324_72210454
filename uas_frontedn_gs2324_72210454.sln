@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uas_frontedn_gs2324_72210454", "uas_frontedn_gs2324_72210454.csproj", "{A5167C2D-76B2-4E61-9473-4ACD4EDC9325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5167C2D-76B2-4E61-9473-4ACD4EDC9325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5167C2D-76B2-4E61-9473-4ACD4EDC9325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5167C2D-76B2-4E61-9473-4ACD4EDC9325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5167C2D-76B2-4E61-9473-4ACD4EDC9325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925582B4-55F4-4571-A856-33A64EA48A44}
+	EndGlobalSection
+EndGlobal

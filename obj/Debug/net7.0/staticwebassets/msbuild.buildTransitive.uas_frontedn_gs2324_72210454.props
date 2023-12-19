@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\uas_frontedn_gs2324_72210454.props" />
+</Project>
